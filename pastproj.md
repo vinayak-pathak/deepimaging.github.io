@@ -3,5 +3,7 @@ layout: page
 title: Past Projects
 permalink: /proj-past/
 ---
-<!--These are some of the projects submitted in Spring 2019.-->
-(Will be uploaded soon)
+---
+| Project #                   |Title            
+|:---------------------------:|:-------------------------------
+|[1]                          |[ Classification of Microscopic Images With and Without Tuberculosis Bacilli]({sites.url}/past_projects/Spring_2019/BME590_final_project_Zhen+Huisi/project_webpage.html)
